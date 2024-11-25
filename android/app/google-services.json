@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "679956330770",
+    "firebase_url": "https://humanlibrary-9322e-default-rtdb.firebaseio.com",
+    "project_id": "humanlibrary-9322e",
+    "storage_bucket": "humanlibrary-9322e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679956330770:android:f295bb074b00acf7d61bcb",
+        "android_client_info": {
+          "package_name": "com.example.amdulancebooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxucfDHxXw3v_s4K3mx68l1KbTn5y6rLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679956330770:android:026743586503bb0dd61bcb",
+        "android_client_info": {
+          "package_name": "com.example.humanlibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxucfDHxXw3v_s4K3mx68l1KbTn5y6rLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
